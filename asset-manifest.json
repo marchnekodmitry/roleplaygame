@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/roleplaygame/static/css/main.5f361e03.chunk.css",
+    "main.js": "/roleplaygame/static/js/main.97c222ff.chunk.js",
+    "main.js.map": "/roleplaygame/static/js/main.97c222ff.chunk.js.map",
+    "runtime-main.js": "/roleplaygame/static/js/runtime-main.4c1a1fe4.js",
+    "runtime-main.js.map": "/roleplaygame/static/js/runtime-main.4c1a1fe4.js.map",
+    "static/js/2.50922cc2.chunk.js": "/roleplaygame/static/js/2.50922cc2.chunk.js",
+    "static/js/2.50922cc2.chunk.js.map": "/roleplaygame/static/js/2.50922cc2.chunk.js.map",
+    "index.html": "/roleplaygame/index.html",
+    "precache-manifest.7087a6d88b2b3d4d9dcb7a30fdc8d091.js": "/roleplaygame/precache-manifest.7087a6d88b2b3d4d9dcb7a30fdc8d091.js",
+    "service-worker.js": "/roleplaygame/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/roleplaygame/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.50922cc2.chunk.js.LICENSE.txt": "/roleplaygame/static/js/2.50922cc2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/roleplaygame/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c1a1fe4.js",
+    "static/js/2.50922cc2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.97c222ff.chunk.js"
+  ]
+}
